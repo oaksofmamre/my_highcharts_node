@@ -1,0 +1,16 @@
+{
+  "name": "my_highcharts_node",
+  "version": "1.0.0",
+  "description": "Using Highcharts with Node.js backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "highcharts": "^6.0.7",
+    "jquery": "^3.3.1"
+  }
+}
