@@ -9,7 +9,7 @@ Using Highcharts with Node.js backend
 Install the dependencies
 
 ```sh
-$ node install
+$ npm install
 ```
 
 ### Serve
